@@ -1,2 +1,1 @@
-Welcome to git and GitHub
-Git add command
+Welcome to Git and GitHub
